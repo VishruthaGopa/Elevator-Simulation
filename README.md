@@ -1,9 +1,4 @@
-# COMP 3004 Assignment 3 - README
-### Elevator System Simulator in Qt C++
-
-**Name:** Vishrutha Gopa
-
-**Student Number:** 101267228
+# Elevator System Simulator in Qt C++
 
 ### Use Cases:
 - File Name: `COMP 3004_Assignment 3.pdf`
@@ -50,9 +45,3 @@
 
 ### Traceability Matrix:
 - File Name: `COMP 3004_ Assignment 3.pdf`
-
-### Youtube Video:
-- COMP 3004: Assignment 3 Video Demonstration | 2 Success Scenarios:
-  https://youtu.be/k4EXgFPaubc 
-- COMP 3004: Assignment 3 Video Demonstration | 5 Safety Scenarios:
-  https://youtu.be/9NwhojmTGM0
